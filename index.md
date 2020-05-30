@@ -5,8 +5,13 @@
   - GPA: 3.90, Rnaked:2/80
   - Courses：Advanced Math I & II, Linear Algebra, Probability and Statistics, Biochemistry I & II，Molecular biology, Cell Biology, Biostatistics, Bioinfomatics, etc.
 - **Bachelor of Engineering Degree, Data Science and Big Data Technology (Dual Major)&emsp;&emsp; 09/2018-07/2020**
-  - GPA: 3.82 without ranking
+  - GPA: 3.82, without ranking
   - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
+
+## Research Project
+
+- **Study on Co-expression Network of Hexaploid Wheat Gene Based on Transcriptome Big Data &emsp; 12/2018-06/2020**
+- **Primary Study of the Membrane Receptor of Verticillium dahliae Asp-f2 Like Protein &emsp; 11/2017-12/2018** <br>*Supervisor: Junsheng Qi*
 
 ### Markdown
 
