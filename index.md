@@ -10,7 +10,7 @@
 
 ## Research Project
 
-- **Probability prediction of heart disease incidence based on machine learning method &emsp; 03/2020-06/2020 ** 
+- **Probability prediction of heart disease incidence based on machine learning method &emsp; 03/2020-06/2020** 
 <br>*Supervisor: Prof. Hui Li*
 
 - **Study on Co-expression Network of Hexaploid Wheat Gene Based on Transcriptome Big Data &emsp; 12/2018-06/2020** 
