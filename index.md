@@ -1,6 +1,6 @@
 ## Education Background
 
-###China Agricultural University (CAU)｜Beijing, China 
+### China Agricultural University (CAU)｜Beijing, China 
 - **Bachelor of Science Degree, Biological Science &emsp; &emsp; 09/2016-07/2020**
   - GPA: 3.90, Rnaked:2/80
   - Courses：Advanced Math I & II, Linear Algebra, Probability and Statistics, Biochemistry I & II，Molecular biology, Cell Biology, Biostatistics, Bioinfomatics, etc.
