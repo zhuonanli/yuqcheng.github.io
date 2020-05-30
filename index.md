@@ -1,4 +1,4 @@
-## Education Background  :mortar_board:
+## Education Background
 
 ### China Agricultural University (CAU)｜Beijing, China 
 - **Bachelor of Science Degree, Biological Science &emsp; &emsp; 09/2016-07/2020**
@@ -8,7 +8,7 @@
   - GPA: 3.82, without ranking
   - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
 
-## Research Project :bar_chart:
+## Research Project
 
 - **Probability prediction of heart disease incidence based on machine learning method &emsp; 03/2020-06/2020** 
 <br>*Supervisor: Prof. Hui Li*
@@ -19,7 +19,7 @@
 - **Primary Study of the Membrane Receptor of Verticillium dahliae Asp-f2 Like Protein &emsp; 11/2017-12/2018**
 <br>*Supervisor: Prof. Junsheng Qi*
 
-## Competition Experience :trophy:
+## Competition Experience
 
 - ***Gold Medal*** in iGEM Competition &emsp; 04/2019-11/2019  <br> Position: Leader of modeling team
 
