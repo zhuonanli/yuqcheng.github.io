@@ -27,4 +27,4 @@
 
 - ***Honorable Mention*** in MCM/ICM &emsp; 02/2018 <br> Position: Team leader
 
-- ***1<sup>st</sup> Prize of Beijing College Students Biology Competition*** &emsp; 05/2018 05/2019
+- ***1<sup>st</sup> Prize*** of Beijing College Students Biology Competition &emsp; 05/2018 05/2019
