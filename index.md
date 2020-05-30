@@ -8,7 +8,7 @@
   - GPA: 3.82, without ranking
   - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
 
-## Research Project
+## Research Project :bar_chart:
 
 - **Probability prediction of heart disease incidence based on machine learning method &emsp; 03/2020-06/2020** 
 <br>*Supervisor: Prof. Hui Li*
@@ -19,34 +19,12 @@
 - **Primary Study of the Membrane Receptor of Verticillium dahliae Asp-f2 Like Protein &emsp; 11/2017-12/2018**
 <br>*Supervisor: Prof. Junsheng Qi*
 
-### Markdown
+## Competition Experience :trophy:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ***Gold Medal*** in iGEM Competition &emsp; 04/2019-11/2019  <br> Position: Leader of modeling team
 
-```markdown
-Syntax highlighted code block
+- ***3<sup>rd</sup> Prize*** in Minsheng Cup Mathematical Modeling Comtest &emsp; 04/2019 <br> Position: Team leader
 
-# Header 1
-## Header 2
-### Header 3
+- ***Honorable Mention*** in MCM/ICM &emsp; 02/2018 <br> Position: Team leader
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuqcheng/yuqcheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- ***1<sup>st</sup> Prize of Beijing College Students Biology Competition*** &emsp; 05/2018 05/2019
