@@ -22,9 +22,6 @@
 ## Competition Experience
 
 - ***Gold Medal*** in iGEM Competition &emsp; 04/2019-11/2019  <br> Position: Leader of modeling team
-
-- ***3<sup>rd</sup> Prize*** in Minsheng Cup Mathematical Modeling Comtest &emsp; 04/2019 <br> Position: Team leader
-
+- ***3<sup>rd</sup> Prize*** in Minsheng Cup Mathematical Modeling Contest &emsp; 04/2019 <br> Position: Team leader
 - ***Honorable Mention*** in MCM/ICM &emsp; 02/2018 <br> Position: Team leader
-
 - ***1<sup>st</sup> Prize*** of Beijing College Students Biology Competition &emsp; 05/2018 05/2019
