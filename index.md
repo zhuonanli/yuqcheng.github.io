@@ -1,24 +1,12 @@
-<!--
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="/yuqcheng.jpg" width="100%">
-    </td>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-  </tr>
-</table>
--->
-## Welcome to GitHub Pages
+## Education Background
 
-You can use the [editor on GitHub](https://github.com/yuqcheng/yuqcheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### China Agricultural University (CAU)｜Beijing, China 
+- **Bachelor of Science Degree, Biological Science &emsp; &emsp; 09/2016-07/2020**
+  - GPA: 3.90, Rnaked:2/80
+  - Courses：Advanced Math I & II, Linear Algebra, Probability and Statistics, Biochemistry I & II，Molecular biology, Cell Biology, Biostatistics, Bioinfomatics, etc.
+- **Bachelor of Engineering Degree, Data Science and Big Data Technology (Dual Major)&emsp;&emsp; 09/2018-07/2020**
+  - GPA: 3.82 without ranking
+  - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
 
 ### Markdown
 
