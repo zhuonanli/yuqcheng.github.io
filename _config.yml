@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Yuqi Cheng
 description: Personal Page
 logo: img/yqc3.png
+show_downloads: true
