@@ -1,4 +1,4 @@
-## Education Background
+## Education Background  :mortar_board:
 
 ### China Agricultural University (CAU)｜Beijing, China 
 - **Bachelor of Science Degree, Biological Science &emsp; &emsp; 09/2016-07/2020**
