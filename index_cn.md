@@ -13,6 +13,9 @@
   - Python, R, SPSS, Linux shell, SQL, HTML, MATLAB, C
   - 熟悉 Win10与Linux (CentOS, Ubantu)操作系统，熟悉Anaconda虚拟环境
   - 熟悉SQL数据库以及TensorFlow框架.
+- ***外语能力***
+  - 六级 560
+  - 托福（98,103），GRE 324（V157+Q170，AW3.0）[PDF](/CV/TGscore.pdf)
 
 ## 科研项目（详见简历）
 
