@@ -19,9 +19,17 @@
 
         {% if site.logo %}
 
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img style="opacity:0.9; margin-left: 45px; " src="{{site.logo | relative_url}}" alt="Logo" />
 
         {% endif %}
+        
+        <hr/>
+        <ul>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+        </ul> 
+        <hr/>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
