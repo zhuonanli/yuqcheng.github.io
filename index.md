@@ -10,15 +10,18 @@
   - GPA: 3.82, without ranking
   - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
 - ***Programming skills***
-  - Python (3years), R (2years), Linux shell (1years), SQL (1years), MATLAB (1years), C (Basic)
-  - Familiar with Win10, Linux (CentOS, Ubantu), Anaconda
+  - Python (3years), R (2years), SPSS (2years), Linux shell (1years), SQL (1years), HTML (Basic), MATLAB (Basic), C (Basic)
+  - Familiar with Win10, Linux (CentOS, Ubantu), Anaconda3
+  - Familiar with Tensorflow framework, MySQL database.
 
-## Research Project
+## Research Project (Download CV for details)
 
 - **Probability prediction of heart disease incidence based on machine learning method &emsp; 03/2020-06/2020** 
 <br>*Supervisor: Prof. Hui Li*
 - **Study on Co-expression Network of Hexaploid Wheat Gene Based on Transcriptome Big Data &emsp; 12/2018-06/2020** 
 <br>*Supervisor: Prof. Weilong Guo*
+- **Research on China Telecom User Offline Forecasting System based on Big Data Technology &emsp; 12/2019-01/2020**
+<br>*Supervisor: Prof. Hui Li*
 - **Primary Study of the Membrane Receptor of Verticillium dahliae Asp-f2 Like Protein &emsp; 11/2017-12/2018**
 <br>*Supervisor: Prof. Junsheng Qi*
 
@@ -31,7 +34,7 @@
 
 ## Awards
 
-- "5.4" Youth Pacemaker in CAU (Highest Honor in CAU) &emsp; 05/2020 [link](http://news.cau.edu.cn/art/2020/4/27/art_8769_677104.html)
+- "5.4" Youth Pacemaker in CAU (Highest Honor in CAU) &ensp; 05/2020 [link](http://news.cau.edu.cn/art/2020/4/27/art_8769_677104.html)
 - Merit student of Beijing &emsp; 12/2019
 - National Scholarship (NO.2018-01395) &emsp; 11/2018
 - Baosteel Scholarship (NO.201920019) &emsp; 11/2019
