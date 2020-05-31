@@ -4,15 +4,18 @@
 
 ### China Agricultural University (CAU)｜Beijing, China 
 - **Bachelor of Science Degree, Biological Science &emsp; &emsp; 09/2016-07/2020**
-  - GPA: 3.90, Rnaked:2/80
+  - GPA: 3.90/4.00, Rnaked:2/80
   - Courses：Advanced Math I & II, Linear Algebra, Probability and Statistics, Biochemistry I & II，Molecular biology, Cell Biology, Biostatistics, Bioinfomatics, etc.
 - **Bachelor of Engineering Degree, Data Science and Big Data Technology (Dual Major)&emsp;&emsp; 09/2018-07/2020**
-  - GPA: 3.82, without ranking
+  - GPA: 3.82/4.00, without ranking
   - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
 - ***Programming skills***
   - Python (3years), R (2years), SPSS (2years), Linux shell (1years), SQL (1years), HTML (Basic), MATLAB (Basic), C (Basic)
   - Familiar with Win10, Linux (CentOS, Ubantu), Anaconda3
   - Familiar with Tensorflow framework, MySQL database.
+- ***Languages***
+  - CET-6 560
+  - TOEFL (98, MyBest Score 103), GRE 324 (V157+Q170, AW3.0) [PDF](/CV/TGscore.pdf)
 
 ## Research Project (Download CV for details)
 
