@@ -35,12 +35,12 @@
   - 使用基于***tensorflow***的***keras***构建人工神经网络（激活函数选用：Sigmoid，ReLU，epochs=5）预测发病概率，并与随机森林模型对比 
 - **基于大数据技术的中国电信用户离网预警系统研究 &emsp; 01/2020**
   - 在Ubuntu18.04系统中安装***Hadoop集群***，使用HDFS提供分布式数据存储功能
-  - 使用***pyspark.sql***进行数据预处理与特征工程(如空值处理，特征提取等)，使用Spark机器学习算法库***Spark mllib (pyspark.ml)*** 构建随机森林模型
+  - 使用***pyspark.sql***进行数据预处理与特征工程(如空值处理，特征提取等)，使用Spark机器学习算法库***Spark mllib (pyspark.ml)*** 构建随机森林模型，根据用户行为预测用户离网情况
   - 使用Spark内置AUC计算函数进行AUC计算与模型评估
 - **绝地求生游戏玩家排名预测 &emsp; 12/2019**
   - 使用***numpy***和***pandas*** 进行数据预处理（如清除极端值等）
   - 使用***pandas***进行特征工程，使用***matplotlib, seaborn***库进行数据可视化
-  - 使用***sklearn***库构建随机森林模型并使用MAE (mean_absolute_error函数) 进行模型效果评估
+  - 使用***sklearn***库构建随机森林模型，根据玩家游戏数据进行报名预测，并使用MAE (mean_absolute_error函数) 进行模型效果评估
 - **基于Python和SQL的在线考试系统开发 &emsp; 05/2019-06/2019**
   - 使用 ***ER model (Entity-relationship model)*** 进行数据库结构分析
   - 使用***tkinter***库构建考试系统前端
