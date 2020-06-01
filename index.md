@@ -8,7 +8,7 @@
   - Courses：Advanced Math I & II, Linear Algebra, Probability and Statistics, Biochemistry I & II，Molecular biology, Cell Biology, Biostatistics, Bioinfomatics, etc.
 - **Bachelor of Engineering Degree, Data Science and Big Data Technology (Dual Major)&emsp;&emsp; 09/2018-07/2020**
   - GPA: 3.82/4.00, without ranking
-  - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
+  - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Big Data Storage Processing, Artificial Intelligence technology, etc.
 - ***Programming skills***
   - Python (3years), R (2years), SPSS (2years), Linux shell (1year), LaTeX (1year) SQL (1year), HTML (Basic), MATLAB (Basic), C (Basic)
   - Familiar with Win10, Linux (CentOS, Ubantu), Anaconda3
