@@ -10,7 +10,7 @@
   - GPA: 3.82, 无排名
   - 相关课程: 数据库原理, Linux应用基础, 数据结构与算法, 程序设计I/II (Python), 大数据挖掘技术, 人工智能技术等.
 - ***编程技能***
-  - Python, R, SPSS, Linux shell, SQL, HTML, MATLAB, C
+  - Python, R, SPSS, Linux shell, SQL, HTML, MATLAB, C, LaTeX
   - 熟悉 Win10与Linux (CentOS, Ubantu)操作系统，熟悉Anaconda虚拟环境
   - 熟悉SQL数据库以及TensorFlow框架.
 - ***外语能力***
@@ -19,14 +19,33 @@
 
 ## 科研项目（详见简历）
 
-- **基于机器学习方法的心脏病发病概率预测 &emsp; 03/2020-06/2020** 
-<br>指导教师: 李辉
 - **基于六倍体小麦转录组大数据的基因共表达网络研究 &emsp; 12/2018-06/2020** 
-<br>指导教师: 郭伟龙
-- **基于大数据技术的中国电信用户离线预警系统研究 &emsp; 12/2019-01/2020**
-<br>指导教师: 李辉
+<br>指导教师: 郭伟龙 副教授
 - **大丽轮枝菌Asp-f2样蛋白膜受体初探 &emsp; 11/2017-12/2018**
-<br>指导教师：齐俊生
+<br>指导教师：齐俊生 教授
+- **小龙门地区蝶形花科植物种质资源统计研究 &emsp; 07/2017-08/2017**
+<br>指导教师：刘朝晖 教授
+
+## *Python* 项目开发经历
+
+- **基于机器学习方法的心脏病发病概率预测（Kaggle） &emsp; 02/2020-05/2020** 
+  - 使用***numpy***与***pandas***进行数据预处理（空值筛选，独热编码等）
+  - 使用***sklearn***构建随机森林模型(基于CART树), 使用ROC与混淆矩阵进行模型评估
+  - 使用***sklearn，eli5***进行特征重要性分析（排列重要性分析、部分独立作图分析等）
+  - 使用基于***tensorflow***的***keras***构建人工神经网络（激活函数选用：Sigmoid，ReLU，epochs=5） 
+- **基于大数据技术的中国电信用户离网预警系统研究 &emsp; 01/2020**
+  - 在Ubuntu18.04系统中安装***Hadoop集群***，使用HDFS提供分布式数据存储功能
+  - 使用***pyspark.sql***进行数据预处理与特征工程(如空值处理，特征提取等)，使用Spark机器学习算法库***Spark mllib (pyspark.ml)*** 构建随机森林模型
+  - 使用Spark内置AUC计算函数进行AUC计算与模型评估
+- **绝地求生游戏玩家排名预测 &emsp; 12/2019**
+  - 使用***numpy***和***pandas*** 进行数据预处理（如清除极端值等）
+  - 使用***pandas***进行特征工程，使用***matplotlib, seaborn***库进行数据可视化
+  - 使用***sklearn***库构建随机森林模型并使用MAE (mean_absolute_error函数) 进行模型效果评估
+- **Online examination system-based on Python and SQL &emsp; 05/2019-06/2019**
+  - 使用 ***ER model (Entity-relationship model)*** 进行数据库结构分析
+  - 使用***tkinter***库构建考试系统前端
+  - 使用***SQL***写MySQL数据库并将考题存入数据库
+  - 使用***pymysql***与后端数据库链接并返回考生最终得分
 
 ## 竞赛经历
 
