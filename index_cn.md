@@ -41,7 +41,7 @@
   - 使用***numpy***和***pandas*** 进行数据预处理（如清除极端值等）
   - 使用***pandas***进行特征工程，使用***matplotlib, seaborn***库进行数据可视化
   - 使用***sklearn***库构建随机森林模型并使用MAE (mean_absolute_error函数) 进行模型效果评估
-- **Online examination system-based on Python and SQL &emsp; 05/2019-06/2019**
+- **基于Python和SQL的在线考试系统开发 &emsp; 05/2019-06/2019**
   - 使用 ***ER model (Entity-relationship model)*** 进行数据库结构分析
   - 使用***tkinter***库构建考试系统前端
   - 使用***SQL***写MySQL数据库并将考题存入数据库
