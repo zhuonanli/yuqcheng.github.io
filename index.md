@@ -45,6 +45,7 @@ random forest model through the Spark machine learning algorithm library ***Spar
 - **Online examination system-based on Python and SQL &emsp; 05/2019-06/2019**
   - Used ***ER model (Entity-relationship model)*** to design mysql database
   - Used ***tkinter*** to develop front-end of the examination system
+  - Used ***SQL*** construct MySQL database (containing exam questions)
   - Used ***pymysql*** to connect database and record final score of tester
 
 ## Competition Experience
