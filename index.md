@@ -23,7 +23,7 @@
 <br>*Supervisor: Prof. Weilong Guo*
 - **Primary Study of the Membrane Receptor of Verticillium dahliae Asp-f2 Like Protein &emsp; 11/2017-12/2018**
 <br>*Supervisor: Prof. Junsheng Qi*
-- **Research upon Phenotypic Diversity of Papillionaceae in Xiaolongmen &emsp; 07/2017-08/2017**
+- **Statistical Research upon Phenotypic Diversity of Papillionaceae in Xiaolongmen &emsp; 07/2017-08/2017**
 <br>*Supervisor: Prof. Zhaohui Liu*
 
 ## *Python* Project
