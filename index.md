@@ -10,23 +10,42 @@
   - GPA: 3.82/4.00, without ranking
   - Courses: Database Principles (SQL), Linux applicatoins, Data structure and Algorithm (Python), Programming I & II (Python), Big Data Mining, Artificial Intelligence technology, etc.
 - ***Programming skills***
-  - Python (3years), R (2years), SPSS (2years), Linux shell (1years), SQL (1years), HTML (Basic), MATLAB (Basic), C (Basic)
+  - Python (3years), R (2years), SPSS (2years), Linux shell (1year), LaTeX (1year) SQL (1year), HTML (Basic), MATLAB (Basic), C (Basic)
   - Familiar with Win10, Linux (CentOS, Ubantu), Anaconda3
   - Familiar with Tensorflow framework, MySQL database.
 - ***Languages***
   - CET-6 560
   - TOEFL (98, MyBest Score 103), GRE 324 (V157+Q170, AW3.0) [PDF](/CV/TGscore.pdf)
 
-## Research Project (Download CV for details)
+## Research Experience (Download CV for details)
 
-- **Probability prediction of heart disease incidence based on machine learning method &emsp; 03/2020-06/2020** 
-<br>*Supervisor: Prof. Hui Li*
 - **Study on Co-expression Network of Hexaploid Wheat Gene Based on Transcriptome Big Data &emsp; 12/2018-06/2020** 
 <br>*Supervisor: Prof. Weilong Guo*
-- **Research on China Telecom User Offline Forecasting System based on Big Data Technology &emsp; 12/2019-01/2020**
-<br>*Supervisor: Prof. Hui Li*
 - **Primary Study of the Membrane Receptor of Verticillium dahliae Asp-f2 Like Protein &emsp; 11/2017-12/2018**
 <br>*Supervisor: Prof. Junsheng Qi*
+- **Research upon Phenotypic Diversity of Papillionaceae in Xiaolongmen &emsp; 07/2017-08/2017**
+<br>*Supervisor: Prof. Zhaohui Liu*
+
+## *Python* Project
+
+- **Probability prediction of heart disease incidence based on machine learning method （Kaggle） &emsp; 02/2020-05/2020** 
+  - Used ***numpy*** and ***pandas*** to do Data Preprocessing (One-Hot encoding etc.)
+  - Used ***sklearn*** to build random forest (CART based), used ROC and confusion matrix to do model evaluation
+  - Used ***sklearn，eli5*** to conduct Feature Importance analysis
+  - Used ***keras*** based on ***tensorflow*** to conduct artificial neural network (activate fuction: Sigmoid, ReLU, epochs=5) 
+- **Research on China Telecom User Offline Forecasting System based on Big Data Technology &emsp; 01/2020**
+  - Installed a ***Hadoop cluster*** based on Ubuntu 18.04, provided a distributed storage foundation through HDFS
+  - Used ***pyspark.sql*** to develop null data preprocessing and feature engineer (null value processing, etc), established the
+random forest model through the Spark machine learning algorithm library ***Spark mllib (pyspark.ml)***
+  - Used AUC calculation of Spark to conduct model evaluation
+- **Player unknown's Battlegrounds player ranking prediction &emsp; 12/2019**
+  - Used ***numpy*** and ***pandas*** to do Data Preprocessing (null value processing, etc)
+  - Used ***pandas*** to conduct feature engineering, ***matplotlib, seaborn*** to do visualization
+  - Used ***sklearn*** to build random forest model and conduct MAE (mean_absolute_error) evaluation
+- **Online examination system-based on Python and SQL &emsp; 05/2019-06/2019**
+  - Used ***ER model (Entity-relationship model)*** to design mysql database
+  - Used ***tkinter*** to develop front-end of the examination system
+  - Used ***pymysql*** to connect database and record final score of tester
 
 ## Competition Experience
 
