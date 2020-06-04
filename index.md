@@ -15,7 +15,7 @@
   - Familiar with Tensorflow framework, MySQL database.
 - ***Languages***
   - CET-6 560
-  - TOEFL (98, MyBest Score 103), GRE 324 (V157+Q170, AW3.0) [PDF](/CV/TGscore.pdf)
+  - TOEFL 103, GRE 324 (V157+Q170, AW3.0) [PDF](/CV/TGscore.pdf)
 
 ## Research Experience (Download CV for details)
 
